@@ -1,4 +1,7 @@
-# Simplified-SDRE-in-MATLAB-Simulink
+# Simplified SDRE in Wind Energy
+
+## Programming Platform:
+* MATLAB/Simulink
 
 # Simplified SDRE for Regulation
 https://ieeexplore.ieee.org/document/9123230
