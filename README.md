@@ -2,6 +2,7 @@
 
 ## Programming Platform:
 * MATLAB/Simulink
+* Python
 
 # Simplified SDRE for Regulation
 https://ieeexplore.ieee.org/document/8834201
