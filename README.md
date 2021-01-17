@@ -1,4 +1,6 @@
-# Simplified SDRE in Wind Energy
+# Simplified SDRE
+
+SDRE is basically a sub-optimal algorithm. To the best of our knowledge, we are the first to eliminate the sub-optimality of the algorithm and proposed "Simplified SDRE" for both regulation and tracking problems. 
 
 ## Programming Platform:
 * MATLAB/Simulink
