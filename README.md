@@ -19,7 +19,7 @@ Simplified SDRE for Tracking (written in MATLAB):
 2) Then, run other file- Simplified_SDRE_Trcking_Part2.m
 
 Existing SDRE (written in Python):
-SDRE_Optimal_Control_Simulator.ipynb file works as a SDRE simulator. You just need to input the system you are working with, your desired output, and the controller parameters. The simulator will give you the control signal and the tracking error. 
+* SDRE_Optimal_Control_Simulator.ipynb file works as a SDRE simulator. You just need to input the system you are working with, your desired output, and the controller parameters. The simulator will give you the control signal and the tracking error. 
 
 
 ## Programming Platform:
