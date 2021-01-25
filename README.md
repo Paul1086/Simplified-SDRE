@@ -8,6 +8,19 @@ https://ieeexplore.ieee.org/document/8834201
 ## Simplified SDRE for Tracking
 https://ieeexplore.ieee.org/document/9123230
 
+# Running the Code
+
+Simplified SDRE for Regulation (written in MATLAB):
+1) First, run the file- Simp_SDRE_Regulation_P1_lqrnss.m
+2) Then, run the file- Simplified_SDRE_Regulation_Part2.m 
+
+Simplified SDRE for Tracking (written in MATLAB):
+1) First, run the file- Simp_SDRE_Tracking_P1_lqtnss.m
+2) Then, run other file- Simplified_SDRE_Trcking_Part2.m
+
+Existing SDRE (written in Python):
+SDRE_Optimal_Control_Simulator.ipynb file works as a SDRE simulator. You just need to input the system you are working with, your desired output, and the controller parameters. The simulator will give you the control signal and the tracking error. 
+
 
 ## Programming Platform:
 * MATLAB/Simulink
